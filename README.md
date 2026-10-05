@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=zizi&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%20%2F%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20%2F%20%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6&descAlignY=66&descSize=14&descColor=cbd5e1" alt="zizi" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=zizi&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E6%99%BA%E8%83%BD%E4%BD%93%E7%B3%BB%E7%BB%9F%20%2F%20%E7%94%9F%E6%88%90%E5%BC%8F%E6%90%9C%E7%B4%A2%E4%B8%8E%E6%8E%A8%E8%8D%90&descAlignY=66&descSize=14&descColor=cbd5e1" alt="zizi" width="100%" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <br />
 
-专注于构建实用的人工智能系统。
+专注于构建实用的智能体系统。
 
 目前就读于**哈尔滨工业大学计算机科学与技术专业硕士**，此前毕业于**大连理工大学软件工程专业**。
 
