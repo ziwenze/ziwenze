@@ -40,12 +40,21 @@ My current interests sit at the intersection of **agent-native applications**, *
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ziwenze&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0f172a&text_color=475569&icon_color=334155" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwenze&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=0f172a&text_color=475569" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ziwenze&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=ffffff&text_color=cbd5e1&icon_color=94a3b8" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ziwenze&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0f172a&text_color=475569&icon_color=334155" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwenze&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=ffffff&text_color=cbd5e1" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwenze&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=0f172a&text_color=475569" alt="Top languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziwenze&hide_border=true&bg_color=00000000&color=475569&line=0f172a&point=64748b&area=true&area_color=e2e8f0" alt="Contribution graph" width="96%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ziwenze&hide_border=true&bg_color=00000000&color=cbd5e1&line=ffffff&point=94a3b8&area=true&area_color=334155" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziwenze&hide_border=true&bg_color=00000000&color=475569&line=0f172a&point=64748b&area=true&area_color=e2e8f0" alt="Contribution graph" width="96%" />
+  </picture>
 </div>
 
 <br />
