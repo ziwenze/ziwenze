@@ -43,8 +43,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ziwenze&hide_border=true&bg_color=00000000&color=cbd5e1&line=ffffff&point=94a3b8&area=true&area_color=334155" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziwenze&hide_border=true&bg_color=00000000&color=475569&line=0f172a&point=64748b&area=true&area_color=e2e8f0" alt="贡献图" width="96%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziwenze&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ziwenze&theme=github" alt="贡献图" width="96%" />
   </picture>
 </div>
 
