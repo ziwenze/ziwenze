@@ -16,17 +16,6 @@
 
 目前关注**智能体原生应用**与**大模型推荐系统**。
 
-## 技术栈
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-0f172a?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML 与 CSS" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=ffffff" alt="Linux" />
-</p>
 
 ## GitHub 概览
 
