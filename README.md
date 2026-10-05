@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=ziwenze&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%20%2F%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20%2F%20%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6&descAlignY=66&descSize=14&descColor=cbd5e1" alt="ziwenze" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=ziwenze&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%20%2F%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20%2F%20%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6&descAlignY=66&descSize=14&descColor=cbd5e1" alt="zizi" width="100%" />
 </div>
 
 <div align="center">
@@ -10,11 +10,11 @@
 
 <br />
 
-我专注于构建实用的人工智能系统与开发者工具，让复杂工作流更易用、更透明，也更值得信赖。
+专注于构建实用的人工智能系统。
 
 目前就读于**哈尔滨工业大学计算机科学与技术专业硕士**，此前毕业于**大连理工大学软件工程专业**。
 
-目前关注**智能体原生应用**、**大语言模型辅助自动化**与**应用安全**。
+目前关注**智能体原生应用**与**大模型推荐系统**。
 
 ## 技术栈
 
